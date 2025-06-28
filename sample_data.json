@@ -1,0 +1,18 @@
+{
+  "merchant_id": "M001",
+  "employees": [
+    {"id": "E001", "sales_count": 45, "total_value": 18000},
+    {"id": "E002", "sales_count": 23, "total_value": 9500}
+  ],
+  "branches": [
+    {"id": "B001", "active_days": 28},
+    {"id": "B002", "active_days": 24}
+  ],
+  "products_sold": [
+    {"category": "Essential", "quantity": 300},
+    {"category": "Luxury", "quantity": 50}
+  ],
+  "intervals": [15, 18, 14, 21, 13, 16],
+  "verified_docs": true,
+  "refund_rate": 0.01
+}
