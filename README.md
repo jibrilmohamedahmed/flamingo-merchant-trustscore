@@ -1,5 +1,5 @@
 # Flamingo Merchant TrustScore
-
+[![Tests](https://github.com/jibrilmohamedahmed/flamingo-merchant-trustscore/actions/workflows/python-test.yml/badge.svg)](https://github.com/jibrilmohamedahmed/flamingo-merchant-trustscore/actions/workflows/python-test.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with Python](https://img.shields.io/badge/Built%20with-Python-blue)
 ![Status: Open Source](https://img.shields.io/badge/status-active-brightgreen)
